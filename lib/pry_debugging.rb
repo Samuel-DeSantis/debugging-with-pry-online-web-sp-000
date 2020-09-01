@@ -5,3 +5,5 @@ def plus_two(num)
 	num
 	pry.binding
 end
+
+plus_two
